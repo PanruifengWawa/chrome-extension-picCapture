@@ -1,1 +1,3 @@
-# chrome-extension-picCapture
+# 描述
+
+# 安装方法
